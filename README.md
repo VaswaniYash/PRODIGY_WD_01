@@ -1,9 +1,9 @@
-
-A sleek and responsive personal portfolio website built using HTML and CSS. This project showcases my profile, skills, and work as a web designer in a clean and professional layout. Fully mobile-friendly with smooth section transitions and modern styling.
-
 # 🌐 Personal Portfolio Website - Yash Vaswani
 
 Welcome to my personal portfolio website! It's designed to highlight my skills, projects, and contact details as a creative web designer. This site is responsive and crafted using only HTML and CSS.
+
+A sleek and responsive personal portfolio website built using HTML and CSS. This project showcases my profile, skills, and work as a web designer in a clean and professional layout. Fully mobile-friendly with smooth section transitions and modern styling.
+
 
 ## 📸 Live Preview
 👉 [Click here to view the live site](https://github.com/VaswaniYash/PRODIGY_WD_01/)
