@@ -37,9 +37,10 @@ PRJ-01/
 I’m Yash Vaswani, a passionate web designer who loves to build creative and clean web interfaces. Feel free to connect with me!
 
 🔗 Connect With Me
-	•	LinkedIn- https://www.linkedin.com/in/yash-vaswani-17a7b4297/
+
+	•	LinkedIn:- https://www.linkedin.com/in/yash-vaswani-17a7b4297/
  
-	•	GitHub- https://github.com/VaswaniYash/
+	•	GitHub:- https://github.com/VaswaniYash/
 
 📄 License
 
