@@ -1,8 +1,8 @@
 # 🌐 Responsive Landing Page - Yash Vaswani
 
-Welcome to my personal portfolio website! It's designed to highlight my skills, projects, and contact details as a creative web designer. This site is responsive and crafted using only HTML and CSS.
+Welcome to my personal portfolio website! It's designed to highlight my skills, projects, and contact details as a creative web designer. This site is responsive and crafted using only HTML, CSS and JavaScript.
 
-A sleek and responsive personal portfolio website built using HTML and CSS. This project showcases my profile, skills, and work as a web designer in a clean and professional layout. Fully mobile-friendly with smooth section transitions and modern styling.
+A sleek and responsive personal portfolio website built using HTML, CSS and JS. This project showcases my profile, skills, and work as a web designer in a clean and professional layout. Fully mobile-friendly with smooth section transitions and modern styling.
 
 
 ## 📸 Live Preview
@@ -11,7 +11,8 @@ A sleek and responsive personal portfolio website built using HTML and CSS. This
 ## 🛠️ Built With
 - HTML5
 - CSS3
-
+- JS
+  
 ## ✨ Features
 - Responsive layout for mobile, tablet, and desktop
 - Hero section with introduction and call-to-action
