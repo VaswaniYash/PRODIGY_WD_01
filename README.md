@@ -1,2 +1,45 @@
-# PRODIGY_WD_01
-A fully responsive personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, work, and contact information in a clean, modern UI. Designed to be mobile-friendly and visually appealing, it features smooth animations, navigation links, and a stylish landing section.
+
+A sleek and responsive personal portfolio website built using HTML and CSS. This project showcases my profile, skills, and work as a web designer in a clean and professional layout. Fully mobile-friendly with smooth section transitions and modern styling.
+
+# 🌐 Personal Portfolio Website - Yash Vaswani
+
+Welcome to my personal portfolio website! It's designed to highlight my skills, projects, and contact details as a creative web designer. This site is responsive and crafted using only HTML and CSS.
+
+## 📸 Live Preview
+👉 [Click here to view the live site](https://github.com/VaswaniYash/PRODIGY_WD_01/)
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+
+## ✨ Features
+- Responsive layout for mobile, tablet, and desktop
+- Hero section with introduction and call-to-action
+- About section
+- Skills section
+- Contact section with smooth layout
+- Social media icons (GitHub, etc.)
+
+## 📂 Folder Structure
+PRJ-01/
+├── Image/
+│   ├── bg.jpg
+│   └── img1.jpg
+├── index.html
+└── style.css
+
+## 🚀 How to Use
+1. Clone the repository:https://github.com/VaswaniYash/PRODIGY_WD_01/
+2.	Open index.html in your browser.
+
+🙋‍♂️ About Me
+
+I’m Yash Vaswani, a passionate web designer who loves to build creative and clean web interfaces. Feel free to connect with me!
+
+🔗 Connect With Me
+	•	LinkedIn- https://www.linkedin.com/in/yash-vaswani-17a7b4297/
+	•	GitHub- https://github.com/VaswaniYash/
+
+📄 License
+
+This project is licensed under the MIT License.
