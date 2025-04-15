@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website - Yash Vaswani
+# 🌐 Responsive Landing Page - Yash Vaswani
 
 Welcome to my personal portfolio website! It's designed to highlight my skills, projects, and contact details as a creative web designer. This site is responsive and crafted using only HTML and CSS.
 
